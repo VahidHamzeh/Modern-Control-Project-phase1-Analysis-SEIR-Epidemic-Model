@@ -33,4 +33,4 @@ The primary goal of this project is to transition from theoretical control conce
 * **Institution:** Sharif University of Technology (SUT)
 
 ---
-*For more technical details, please refer to the [full report in the /report folder](./report/SEIR_Phase1_FINAL_v3.pdf).*
+*For more technical details, please refer to the [full report in the /Report folder](./Report/SEIR_Phase1_FINAL_v3.pdf).*
