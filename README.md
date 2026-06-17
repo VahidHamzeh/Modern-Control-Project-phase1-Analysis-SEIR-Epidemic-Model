@@ -1,3 +1,8 @@
+![Control Theory](https://img.shields.io/badge/Domain-Modern_Control-blue?style=for-the-badge&logo=mathworks&logoColor=white)
+![Model](https://img.shields.io/badge/Model-SEIR-red?style=for-the-badge&logo=microchip&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github&logoColor=white)
+
 # SEIR Epidemic Model Analysis & Control
 
 This repository contains the Phase 1 project for the **Modern Control Engineering** course at **Sharif University of Technology (SUT)**. The project focuses on the mathematical modeling, linearization, structural analysis, and simulation of a fractional-order SEIR epidemic model, based on the research by *Soulaimani & Kaddar (2023)*.
