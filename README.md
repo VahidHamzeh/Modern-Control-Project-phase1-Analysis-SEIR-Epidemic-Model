@@ -9,7 +9,7 @@ This repository contains the Phase 1 project for the **Modern Control Engineerin
 
 ## Project Overview
 The primary goal of this project is to transition from theoretical control concepts to practical engineering applications. Key tasks performed include:
-* **Modeling:** Extraction of non-linear differential equations and formulation into standard state-space form ($\dot{x}=f(x,u)$).
+* **Modeling:** Extraction of non-linear differential equations and formulation into standard state-space form (**x'(t)=f(x(t),u(t))**).
 * **Linearization:** Jacobian-based linearization at the Disease-Free Equilibrium (DFE).
 * **Structural Analysis:** Assessing controllability and observability using five distinct methods (Matrix Rank, PBH Test, Jordan Form, Gramian, and SVD).
 * **Canonical Forms:** Conversion to Jordan, Controller, and Observer Canonical Forms.
